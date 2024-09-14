@@ -1,2 +1,2 @@
-# temp-repo
-HI
+# test-repo
+test-repo
